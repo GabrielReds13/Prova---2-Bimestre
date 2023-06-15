@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\bin\Debug\Prova - 2 Bimestre.exe.config
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\bin\Debug\Prova - 2 Bimestre.exe
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\bin\Debug\Prova - 2 Bimestre.pdb
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\obj\Debug\Prova - 2 Bimestre.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\obj\Debug\Prova - 2 Bimestre.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\obj\Debug\Prova___2_Bimestre.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\obj\Debug\Prova___2_Bimestre.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\obj\Debug\Prova - 2 Bimestre.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\obj\Debug\Prova - 2 Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\obj\Debug\Prova - 2 Bimestre.exe
+C:\Users\gabri\OneDrive\Documentos\IFRO\Matérias\PO2\Prova - 2°Bimestre\Prova - 2 Bimestre\Prova - 2 Bimestre\obj\Debug\Prova - 2 Bimestre.pdb
