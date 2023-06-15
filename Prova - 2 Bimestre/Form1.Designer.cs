@@ -46,6 +46,7 @@
             this.pd_codigo = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pd_valorRenda = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // pd_confins
@@ -108,6 +109,10 @@
             // pd_unidade
             // 
             this.pd_unidade.FormattingEnabled = true;
+            this.pd_unidade.Items.AddRange(new object[] {
+            "Unidade",
+            "Litro",
+            "Quilograma"});
             this.pd_unidade.Location = new System.Drawing.Point(249, 141);
             this.pd_unidade.Name = "pd_unidade";
             this.pd_unidade.Size = new System.Drawing.Size(186, 21);
@@ -196,11 +201,21 @@
             this.pd_valorRenda.TabIndex = 36;
             this.pd_valorRenda.Text = "Valor de Venda: R$0.00";
             // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(181, 27);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(104, 13);
+            this.label9.TabIndex = 37;
+            this.label9.Text = "Cadastro de Produto";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(462, 450);
+            this.Controls.Add(this.label9);
             this.Controls.Add(this.pd_valorRenda);
             this.Controls.Add(this.pd_confins);
             this.Controls.Add(this.label8);
@@ -246,6 +261,7 @@
         private System.Windows.Forms.TextBox pd_codigo;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label pd_valorRenda;
+        private System.Windows.Forms.Label label9;
     }
 }
 
