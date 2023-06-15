@@ -15,7 +15,6 @@ public static class Imposto
         // Retorno
         if (unidade == unidades[0] || unidade == unidades[1]) return (valor + calcLucro) + ((valor + calcLucro) * 0.05);
         else return (valor + calcLucro);
-
     }
 }
 

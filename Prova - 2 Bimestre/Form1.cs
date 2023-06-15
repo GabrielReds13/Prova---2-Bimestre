@@ -31,19 +31,18 @@ namespace Prova___2_Bimestre
             double confins = Convert.ToDouble(pd_confins.Text);
             double lucro = Convert.ToDouble(pd_lucro.Text);
 
-            // Verificar Vazios
+            // Verificar select vazio
             if (pd_unidade.Text == null || pd_unidade.Text == "") MessageBox.Show("ERR0: INSIRA UMA UNIDADE");
             else
             {
-            // Criar produto
-            Produto produto = new Produto(codigo, unidade, descricao, valor);
+                // Criar produto
+                Produto produto = new Produto(codigo, unidade, descricao, valor);
 
-            // Definir valor de venda
-            produto.valorTotal = Imposto.CalcValorTotal(produto.valor, lucro, pis, icms, confins, produto.unidade);
+                // Definir valor de venda
+                produto.valorTotal = Imposto.CalcValorTotal(produto.valor, lucro, pis, icms, confins, produto.unidade);
 
-            // Retorno 
-            pd_valorRenda.Text = $"Valor de Venda: {produto.valorTotal.ToString("C2")}";
-
+                // Retorno 
+                pd_valorRenda.Text = $"Valor de Venda: {produto.valorTotal.ToString("C2")}";
             }
 
         }
