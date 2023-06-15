@@ -47,11 +47,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.pd_valorRenda = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // pd_confins
             // 
-            this.pd_confins.Location = new System.Drawing.Point(356, 256);
+            this.pd_confins.Location = new System.Drawing.Point(357, 235);
             this.pd_confins.Name = "pd_confins";
             this.pd_confins.Size = new System.Drawing.Size(79, 20);
             this.pd_confins.TabIndex = 35;
@@ -59,7 +60,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(353, 239);
+            this.label8.Location = new System.Drawing.Point(354, 218);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(54, 13);
             this.label8.TabIndex = 34;
@@ -67,7 +68,7 @@
             // 
             // pd_pis
             // 
-            this.pd_pis.Location = new System.Drawing.Point(135, 256);
+            this.pd_pis.Location = new System.Drawing.Point(136, 235);
             this.pd_pis.Name = "pd_pis";
             this.pd_pis.Size = new System.Drawing.Size(79, 20);
             this.pd_pis.TabIndex = 33;
@@ -75,7 +76,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(132, 239);
+            this.label7.Location = new System.Drawing.Point(133, 218);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(24, 13);
             this.label7.TabIndex = 32;
@@ -83,7 +84,7 @@
             // 
             // pd_icms
             // 
-            this.pd_icms.Location = new System.Drawing.Point(245, 256);
+            this.pd_icms.Location = new System.Drawing.Point(246, 235);
             this.pd_icms.Name = "pd_icms";
             this.pd_icms.Size = new System.Drawing.Size(79, 20);
             this.pd_icms.TabIndex = 31;
@@ -91,7 +92,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(242, 239);
+            this.label6.Location = new System.Drawing.Point(243, 218);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(33, 13);
             this.label6.TabIndex = 30;
@@ -100,7 +101,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(246, 125);
+            this.label4.Location = new System.Drawing.Point(247, 104);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(47, 13);
             this.label4.TabIndex = 29;
@@ -113,14 +114,14 @@
             "Unidade",
             "Litro",
             "Quilograma"});
-            this.pd_unidade.Location = new System.Drawing.Point(249, 141);
+            this.pd_unidade.Location = new System.Drawing.Point(250, 120);
             this.pd_unidade.Name = "pd_unidade";
             this.pd_unidade.Size = new System.Drawing.Size(186, 21);
             this.pd_unidade.TabIndex = 28;
             // 
             // pd_cadastrar
             // 
-            this.pd_cadastrar.Location = new System.Drawing.Point(28, 401);
+            this.pd_cadastrar.Location = new System.Drawing.Point(29, 380);
             this.pd_cadastrar.Name = "pd_cadastrar";
             this.pd_cadastrar.Size = new System.Drawing.Size(407, 23);
             this.pd_cadastrar.TabIndex = 27;
@@ -130,7 +131,7 @@
             // 
             // pd_lucro
             // 
-            this.pd_lucro.Location = new System.Drawing.Point(28, 316);
+            this.pd_lucro.Location = new System.Drawing.Point(29, 295);
             this.pd_lucro.Name = "pd_lucro";
             this.pd_lucro.Size = new System.Drawing.Size(407, 20);
             this.pd_lucro.TabIndex = 26;
@@ -138,7 +139,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(25, 299);
+            this.label5.Location = new System.Drawing.Point(26, 278);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(34, 13);
             this.label5.TabIndex = 25;
@@ -146,7 +147,7 @@
             // 
             // pd_valor
             // 
-            this.pd_valor.Location = new System.Drawing.Point(28, 256);
+            this.pd_valor.Location = new System.Drawing.Point(29, 235);
             this.pd_valor.Name = "pd_valor";
             this.pd_valor.Size = new System.Drawing.Size(79, 20);
             this.pd_valor.TabIndex = 24;
@@ -154,7 +155,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(25, 239);
+            this.label3.Location = new System.Drawing.Point(26, 218);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(31, 13);
             this.label3.TabIndex = 23;
@@ -162,7 +163,7 @@
             // 
             // pd_descricao
             // 
-            this.pd_descricao.Location = new System.Drawing.Point(28, 199);
+            this.pd_descricao.Location = new System.Drawing.Point(29, 178);
             this.pd_descricao.Name = "pd_descricao";
             this.pd_descricao.Size = new System.Drawing.Size(407, 20);
             this.pd_descricao.TabIndex = 22;
@@ -170,7 +171,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(25, 182);
+            this.label2.Location = new System.Drawing.Point(26, 161);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(55, 13);
             this.label2.TabIndex = 21;
@@ -178,7 +179,7 @@
             // 
             // pd_codigo
             // 
-            this.pd_codigo.Location = new System.Drawing.Point(28, 142);
+            this.pd_codigo.Location = new System.Drawing.Point(29, 121);
             this.pd_codigo.Name = "pd_codigo";
             this.pd_codigo.Size = new System.Drawing.Size(186, 20);
             this.pd_codigo.TabIndex = 20;
@@ -186,7 +187,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(25, 125);
+            this.label1.Location = new System.Drawing.Point(26, 104);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(40, 13);
             this.label1.TabIndex = 19;
@@ -195,7 +196,7 @@
             // pd_valorRenda
             // 
             this.pd_valorRenda.AutoSize = true;
-            this.pd_valorRenda.Location = new System.Drawing.Point(28, 363);
+            this.pd_valorRenda.Location = new System.Drawing.Point(29, 342);
             this.pd_valorRenda.Name = "pd_valorRenda";
             this.pd_valorRenda.Size = new System.Drawing.Size(121, 13);
             this.pd_valorRenda.TabIndex = 36;
@@ -210,11 +211,21 @@
             this.label9.TabIndex = 37;
             this.label9.Text = "Cadastro de Produto";
             // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(160, 52);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(148, 13);
+            this.label10.TabIndex = 38;
+            this.label10.Text = "By: Gabriel Guedes Enterprise";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(462, 450);
+            this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.pd_valorRenda);
             this.Controls.Add(this.pd_confins);
@@ -262,6 +273,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label pd_valorRenda;
         private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label10;
     }
 }
 

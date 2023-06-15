@@ -31,6 +31,10 @@ namespace Prova___2_Bimestre
             double confins = Convert.ToDouble(pd_confins.Text);
             double lucro = Convert.ToDouble(pd_lucro.Text);
 
+            // Verificar Vazios
+            if (pd_unidade.Text == null || pd_unidade.Text == "") MessageBox.Show("ERR0: INSIRA UMA UNIDADE");
+            else
+            {
             // Criar produto
             Produto produto = new Produto(codigo, unidade, descricao, valor);
 
@@ -39,6 +43,9 @@ namespace Prova___2_Bimestre
 
             // Retorno 
             pd_valorRenda.Text = $"Valor de Venda: {produto.valorTotal.ToString("C2")}";
+
+            }
+
         }
     }
 }
